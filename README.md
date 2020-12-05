@@ -1,16 +1,20 @@
-### Hi there 👋
+### Uhh, hello? Hello hello?
 
-<!--
-**ptgms/ptgms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer based in Germany, contributing to the Open-Source community for fun and others to use!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily work in
+- Swift
+- Kotlin / Java
+- Go
+
+...but I also have experience with
+
+- C++
+- Python
+- HTML/CSS
+
+If you have an cool Open-Source project and want me to help you with it, shoot me an message!
+
+#### I do not plan on contributing to closed projects though, sorry.
