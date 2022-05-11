@@ -8,6 +8,7 @@ I primarily work in
 - Swift
 - Kotlin / Java
 - Go
+- Flutter
 
 ...but I also have experience with
 
