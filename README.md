@@ -19,4 +19,6 @@ I primarily work in
 
 If you have an cool Open-Source project and want me to help you with it, shoot me an message!
 
+Part of ToS;DR making Android and iOS/macOS apps
+
 #### I do not plan on contributing to closed projects though, sorry.
