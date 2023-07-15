@@ -1,6 +1,6 @@
-### Uhh, hello? Hello hello?
+### Hi, my name is ptgms.
 
-I am a developer based in Germany, contributing to the Open-Source community for fun and others to use!
+I am a developer focusing on high-quality code. One of my key values is making tech accessible and 'for the people' through intuitive UIs, privacy-focused products and hard work.
 
 ---
 
@@ -17,8 +17,10 @@ I primarily work in
 - HTML/CSS
 - GML
 
-If you have an cool Open-Source project and want me to help you with it, shoot me an message!
+---
 
-Part of ToS;DR making Android and iOS/macOS apps
+Part of [ToS;DR](https://tosdr.org) Team.
 
-#### I do not plan on contributing to closed projects though, sorry.
+My links: [apps](https://apps.ptgms.space), [hub](https://ptg.ms), [homepage](https://ptgms.space).
+
+Thank you for stopping by :)
